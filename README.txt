@@ -3,6 +3,3 @@ The game features a point based character creation system, a turn based combat s
 My goal with this project was to create it in such a way that allows for inheritance and polymorphism.
 
 Run the batch file and it should open in console.
-Make sure you have Java 19 installed!
-
-If you run into issues, e-mail me at paige.dyer1@snhu.edu
